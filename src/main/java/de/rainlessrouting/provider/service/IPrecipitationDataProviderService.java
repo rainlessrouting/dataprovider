@@ -4,7 +4,7 @@ import java.util.List;
 
 import de.rainlessrouting.common.model.PrecipitationReadingGrid;
 import de.rainlessrouting.common.model.SimplePrecipitation;
-import de.rainlessrouting.provider.model.PrecipitationInfo;
+import de.rainlessrouting.common.model.PrecipitationInfo;
 
 public interface IPrecipitationDataProviderService {
 	
